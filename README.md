@@ -18,5 +18,8 @@
 **Python、[frida](https://github.com/frida/frida)、frida-tools都升级到最新即可，没什么大的要求，但要确保frida-server的版本要和frida版本、手机或模拟器配套**  
 
 ## 补充  
-想要hook加壳应用的类或方法的前提是知道这些数据，那就需要脱壳了，可以利用[frida-dexdump](https://github.com/hluwa/frida-dexdump)脚本脱壳。
+想要hook加壳应用的类或方法的前提是知道这些数据，那就需要脱壳了，可以利用[frida-dexdump](https://github.com/hluwa/frida-dexdump)脚本脱壳。  
+
+## 联系
+[B站](https://space.bilibili.com/367382623)
  
