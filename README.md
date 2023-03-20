@@ -1,4 +1,4 @@
-# Jkiller
+# Jkiller简介
 目前实现了360加壳应用的hook
 
 JS版本和Python内容一致，只是运行的方式有点不同
