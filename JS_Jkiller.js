@@ -1,4 +1,4 @@
-//js代码
+//js版本代码
 //执行此脚本命令：frida -R app名称/PID -l JS_Jkiller.js
 
 function hook(){
@@ -54,9 +54,9 @@ if(Java.available) {
             }*/
 
 
-    });
+        });
     
-}
+    }
 }
 
 setImmediate(hook) //调用函数
