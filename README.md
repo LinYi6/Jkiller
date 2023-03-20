@@ -15,5 +15,8 @@
 * Python版本需配置Python环境，然后直接运行即可  
 
 ## 环境版本  
-**Python、frida、frida-tools都升级到最新即可，没什么大的要求，但要确保frida-server的版本要和frida版本、手机或模拟器配套**
+**Python、frida、frida-tools都升级到最新即可，没什么大的要求，但要确保frida-server的版本要和frida版本、手机或模拟器配套**  
+
+## 补充  
+想要hook加壳应用的类或方法的前提是知道这些数据，那就需要脱壳了，可以利用**frida-dexdump**脚本脱壳。
  
